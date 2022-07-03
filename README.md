@@ -1,19 +1,6 @@
 <h1 align="center">Hi, I'm Vedat Kocoglu<img width="5x" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate AWS & DevOps Engineer from Turkey.</h3>
 
-
-
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 🤝 I’m looking for help with **DevOps side while creating Infrastructure**
-
-- 👨‍💻 All of my projects are available [@Vedooo](github.com/Vedooo)
-
-- 💬 Ask me about **AWS Infrastructure and Back-end 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
-
 ---
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -21,13 +8,11 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/C%20Sharp-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="C#"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -36,6 +21,10 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
+  </a>
+    <a href="https://www.javascript.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/JavaScript-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="javascript"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
@@ -49,23 +38,9 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
@@ -78,67 +53,146 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    <img src="https://img.shields.io/badge/node.js-022413.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
   </a>
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
+      alt="nginx"/>
   </a> 
+  <a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/-apache-white?logo=apache&logoColor=D22128&style=for-the-badge" alt="apache"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://img.shields.io/badge/-ASP.NET-5C2D91?&logo=asp.net&logoColor=white&style=for-the-badge" alt="dotnet"/>
+  </a>
+  <a href="docs.microsoft.com/dotnet/welcome" target="_blank"><img src="https://img.shields.io/badge/-.NET-5C7D91?&logo=.net&logoColor=white&style=for-the-badge" alt="dotnet"/>
+  </a>
+  <a href="docs.microsoft.com/dotnet/welcome" target="_blank"><img src="https://img.shields.io/badge/Restful API-2C2291?&logo=api&logoColor=white&style=for-the-badge" alt="dotnet"/>
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
+  <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MsSQL-00000F?style=for-the-badge&logo=mssql&logoColor=white" alt="MsSQL">
   </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
+  <a href="https://mariadb.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Maria DB-00000F?style=for-the-badge&logo=mariadb&logoColor=white" alt="MySQL">
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
+  <a href="https://docs.aws.amazon.com/rds/index.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/RDS-00000F?style=for-the-badge&logo=RDS&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"> 
+    <img src="https://img.shields.io/badge/DynamoDB-00000F?style=for-the-badge&logo=dynamo&logoColor=white" alt="MySQL">
+  </a>
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & DevOps:</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  <a href="https://www.shellscript.sh" target="_blank">
+    <img src="https://img.shields.io/badge/shell_script-%21521011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script">
   </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+  <a href="https://www.terraform.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/terraform-321CE5.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="kubernetes"/>
+  </a>
 </p>
 
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
+<h3 align="center">AWS Services</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/ec2" target="_blank">
+    <img src="https://img.shields.io/badge/EC2-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://aws.amazon.com/lambda" target="_blank">
+    <img src="https://img.shields.io/badge/Lambda-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/elastic-beanstalk" target="_blank">
+    <img src="https://img.shields.io/badge/EBS-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/ecs/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/ECS-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/iam/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/IAM-be4c44.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/waf/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/WAF&Shield-be4c44.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://aws.amazon.com/s3" target="_blank">
+    <img src="https://img.shields.io/badge/S3-17b800.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+   <a href="https://aws.amazon.com/efs" target="_blank">
+    <img src="https://img.shields.io/badge/EFS-17b800.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/cloudformation/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFormation-f73e75.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/cloudwatch/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/CloudWatch-f73e75.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/sqs/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/SQS-f73e75.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/sns/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/SNS-f73e75.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/route53/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Route53-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/cloudfront/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/CloudFront-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/apigateway/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/API Gateway-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/rds/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/RDS-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://aws.amazon.com/dynamodb" target="_blank">
+    <img src="https://img.shields.io/badge/DynamoDb-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/vpc/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/VPC-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/elasticache/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/ElestiCache-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/redshift/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Red Shift-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
@@ -147,32 +201,21 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/Vedooo" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+  <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual Studio-2C2255.svg?style=for-the-badge&logo=vs&logoColor=white" alt="eclipse IDE"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-011111.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
@@ -181,8 +224,8 @@
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  <a href="https://microsoft.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-windows-E95420.svg?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
 </p>
 
@@ -192,22 +235,14 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://medium.com/@example" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
-  </div>
-  <div>
     <a  href="https://www.linkedin.com/in/vedat-kocoglu/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://www.instagram.com/vedatkocogluu/" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="example"/>
+    </a>
+    <a href="mailto:vedattkocogluu@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </div>
 </div>
