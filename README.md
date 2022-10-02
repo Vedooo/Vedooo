@@ -112,6 +112,12 @@
   <a href="https://www.ansible.com" target="_blank"> 
     <img src="https://img.shields.io/badge/ansible-231F3E.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/>
   </a>
+  <a href="https://prometheus.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/prometheus-D23943.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
+  </a>
+  <a href="https://grafana.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/grafana-322CE5.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
+  </a>
 </p>
 
 <h3 align="center">AWS Services</h3>
