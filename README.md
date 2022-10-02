@@ -110,7 +110,7 @@
     <img src="https://img.shields.io/badge/terraform-321CE5.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="kubernetes"/>
   </a>
   <a href="https://www.ansible.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/ansible-231F3E.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="ansible"/>
+    <img src="https://img.shields.io/badge/ansible-231F3E.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/>
   </a>
 </p>
 
