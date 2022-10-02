@@ -89,7 +89,7 @@
   </a>
 </p>
 
-<h3 align="center">Cloud & DevOps:</h3>
+<h3 align="center">DevOps Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -126,7 +126,7 @@
   </a>
 </p>
 
-<h3 align="center">AWS Services</h3>
+<h3 align="center">AWS Cloud Services</h3>
 <p align="center">
   <a href="https://aws.amazon.com/ec2" target="_blank">
     <img src="https://img.shields.io/badge/EC2-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
@@ -234,7 +234,7 @@
   </a>
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -242,6 +242,9 @@
   </a>
   <a href="https://github.com/Vedooo" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://about.gitlab.com" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-0443f3.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="github" />
   </a>
 </p>
 
