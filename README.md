@@ -144,6 +144,14 @@
     <img src="https://img.shields.io/badge/ECS-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="ec2"/>
   </a>
+  <a href="https://docs.aws.amazon.com/eks" target="_blank">
+    <img src="https://img.shields.io/badge/EKS-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/ecr/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/ECR-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
   <a href="https://docs.aws.amazon.com/iam/index.html" target="_blank">
     <img src="https://img.shields.io/badge/IAM-be4c44.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="ec2"/>
