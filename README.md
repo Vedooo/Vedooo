@@ -242,6 +242,9 @@
   <a href="https://microsoft.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/-windows-E95420.svg?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
+  <a href="https://www.linux.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/linux-182A61.svg?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
+  </a>
 </p>
 
 ----
