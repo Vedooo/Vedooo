@@ -122,7 +122,7 @@
     <img src="https://img.shields.io/badge/maven-328BE5.svg?style=for-the-badge&logo=maven&logoColor=white" alt="maven"/>
   </a>
   <a href="https://nexus3.onap.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/nexus3-325GE5.svg?style=for-the-badge&logo=nexus3&logoColor=white" alt="nexus3"/>
+    <img src="https://img.shields.io/badge/nexus3-327GE5.svg?style=for-the-badge&logo=nexus3&logoColor=white" alt="nexus"/>
   </a>
 </p>
 
