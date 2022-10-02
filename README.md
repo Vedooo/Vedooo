@@ -184,6 +184,22 @@
     <img src="https://img.shields.io/badge/SNS-f73e75.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="ec2"/>
   </a>
+  <a href="https://docs.aws.amazon.com/codecommit/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/codeCommit-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/codepipeline/?id=docs_gateway" target="_blank">
+    <img src="https://img.shields.io/badge/CodePipeline-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/codebuild/?id=docs_gateway" target="_blank">
+    <img src="https://img.shields.io/badge/CodeBuild-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/codedeploy/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/CodeDeploy-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="ec2"/>
+  </a>
   <a href="https://docs.aws.amazon.com/route53/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Route53-0443f3.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="ec2"/>
