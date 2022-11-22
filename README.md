@@ -264,7 +264,7 @@
       alt="virtualbox"/>
   </a>
   <a href="https://minikube.sigs.k8s.io/docs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-minikube-E95420.svg?style=for-the-badge&logo=minikube&logoColor=white" alt="windows"/>
+    <img src="https://img.shields.io/badge/minikube-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="windows"/>
   </a>
   <a href="https://www.linux.org" target="_blank"> 
     <img src="https://img.shields.io/badge/linux-182A61.svg?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
