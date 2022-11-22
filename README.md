@@ -245,7 +245,7 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Preferred IDEs, Tools & OS:</h3>
 <p align="center"> 
   <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
     <img src="https://img.shields.io/badge/Visual Studio-2C2255.svg?style=for-the-badge&logo=vs&logoColor=white" alt="eclipse IDE"/> 
