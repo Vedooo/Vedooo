@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vedat Kocoglu<img width="5x" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate AWS & DevOps Engineer from Turkey.</h3>
+<h3 font-size="20" align="center">DevOps Engineer.</h3>
 
 ---
 
