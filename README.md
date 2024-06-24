@@ -94,7 +94,7 @@
 <h3 align="center">Cloud Services</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+    <img src="https://img.shields.io/badge/AWS-ffa900.svg?style=for-the-badge&logo=amazon&logoColor=white"
       alt="aws"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
@@ -126,9 +126,6 @@
 
 <h3 align="center">Preferred IDEs, Tools & OS:</h3>
 <p align="center"> 
-  <a href="https://visualstudio.microsoft.com/tr/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual Studio-2C2255.svg?style=for-the-badge&logo=vs&logoColor=white" alt="eclipse IDE"/> 
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
