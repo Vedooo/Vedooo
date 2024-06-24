@@ -291,6 +291,11 @@
 </div>
 
 ------
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vedooo&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
+------
 Credit: [Vedooo](https://github.com/Vedooo)
 
 Last Edited on: 22/11/2022
