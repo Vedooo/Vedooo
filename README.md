@@ -26,13 +26,13 @@
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://dev.mysql.com/doc/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-00ADF1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MongoDB-0F21FF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
   <a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MsSQL-00ADF1?style=for-the-badge&logo=mssql&logoColor=white" alt="MsSQL">
+    <img src="https://img.shields.io/badge/MsSQL-00CDA1?style=for-the-badge&logo=mssql&logoColor=white" alt="MsSQL">
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/PostgreSQL-00ADF1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -51,16 +51,22 @@
 <h3 align="center">DevOps Tools:</h3>
 <p align="center">
   <a href="https://www.terraform.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/terraform-321CE5.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="kubernetes"/>
+    <img src="https://img.shields.io/badge/terraform-321CE5.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
   </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <a href="https://https://www.vagrantup.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/vagrant-321CE5.svg?style=for-the-badge&logo=vagrant&logoColor=white" alt="vagrant"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
+  <a href="https://zuul-ci.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Zuul-D24939.svg?style=for-the-badge&logo=Zuul&logoColor=white" alt="zuul"/> 
+  </a>
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"> 
-    <img src="https://img.shields.io/badge/argocd-D2322F.svg?style=for-the-badge&logo=argocd&logoColor=white" alt="jenkins"/> 
+    <img src="https://img.shields.io/badge/argocd-D2322F.svg?style=for-the-badge&logo=argocd&logoColor=white" alt="argocd"/> 
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
@@ -73,6 +79,9 @@
   </a>
   <a href="https://grafana.com" target="_blank"> 
     <img src="https://img.shields.io/badge/grafana-322CE5.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
+  </a>
+  <a href="https://www.datadoghq.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Datadog-dddddd.svg?style=for-the-badge&logo=Datadog&logoColor=white" alt="datadog"/>
   </a>
   <a href="https://maven.apache.org" target="_blank"> 
     <img src="https://img.shields.io/badge/maven-328BE5.svg?style=for-the-badge&logo=maven&logoColor=white" alt="maven"/>
@@ -88,7 +97,7 @@
     <img src="https://img.shields.io/badge/AWS-ffa900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="aws"/>
   </a>
-  <a href="[https://aws.amazon.com/lambda](https://azure.microsoft.com/)" target="_blank">
+  <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-ffa900.svg?style=for-the-badge&logo=microsoft&logoColor=blue"
       alt="azure"/>
   </a>
@@ -109,9 +118,6 @@
   </a>
   <a href="https://about.gitlab.com" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-0443f3.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="github" />
-  </a>
-  <a href="https://bitbucket.org/product" target="_blank">
-    <img src="https://img.shields.io/badge/bitbucket-00000D.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="github" />
   </a>
   <a href="https://bitbucket.org/product" target="_blank">
     <img src="https://img.shields.io/badge/bitbucket-00000D.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="github" />
@@ -137,13 +143,13 @@
       alt="virtualbox"/>
   </a>
   <a href="https://minikube.sigs.k8s.io/docs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/minikube-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="windows"/>
+    <img src="https://img.shields.io/badge/minikube-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="minikube"/>
   </a>
   <a href="https://www.linux.org" target="_blank"> 
     <img src="https://img.shields.io/badge/linux-182A61.svg?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
   </a>
-  <a href="https://www.linux.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/MacOS-183AF1.svg?style=for-the-badge&logo=macos&logoColor=white" alt="linux"/>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/MacOS-183AF1.svg?style=for-the-badge&logo=macos&logoColor=white" alt="macos"/>
   </a>
 </p>
 
